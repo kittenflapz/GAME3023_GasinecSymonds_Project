@@ -1,0 +1,2446 @@
+fileFormatVersion: 2
+guid: c61e7ec3ba0a8bf46a4fe07f6df19f90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7167183035587853076
+    second: Raccoon Sprite Sheet_0
+  - first:
+      213: 8896308180259998541
+    second: Raccoon Sprite Sheet_1
+  - first:
+      213: -39590331213350322
+    second: Raccoon Sprite Sheet_2
+  - first:
+      213: -6504820093075286744
+    second: Raccoon Sprite Sheet_3
+  - first:
+      213: -5546237877954915397
+    second: Raccoon Sprite Sheet_4
+  - first:
+      213: -2012850270432084222
+    second: Raccoon Sprite Sheet_5
+  - first:
+      213: 2388197203343621724
+    second: Raccoon Sprite Sheet_6
+  - first:
+      213: -2164236097989167547
+    second: Raccoon Sprite Sheet_7
+  - first:
+      213: -908663397735376128
+    second: Raccoon Sprite Sheet_8
+  - first:
+      213: -6157632328877778918
+    second: Raccoon Sprite Sheet_9
+  - first:
+      213: 2355176477746402892
+    second: Raccoon Sprite Sheet_10
+  - first:
+      213: -7260964579718140336
+    second: Raccoon Sprite Sheet_11
+  - first:
+      213: 1428988238476823146
+    second: Raccoon Sprite Sheet_12
+  - first:
+      213: -2262199264458907734
+    second: Raccoon Sprite Sheet_13
+  - first:
+      213: -3996908157841969745
+    second: Raccoon Sprite Sheet_14
+  - first:
+      213: -7029631973465008709
+    second: Raccoon Sprite Sheet_15
+  - first:
+      213: -519672493153304427
+    second: Raccoon Sprite Sheet_16
+  - first:
+      213: -7981079615976694555
+    second: Raccoon Sprite Sheet_17
+  - first:
+      213: -6368675396551075154
+    second: Raccoon Sprite Sheet_18
+  - first:
+      213: -1945256455469263918
+    second: Raccoon Sprite Sheet_19
+  - first:
+      213: 6582602342932496913
+    second: Raccoon Sprite Sheet_20
+  - first:
+      213: -1411517322568796075
+    second: Raccoon Sprite Sheet_21
+  - first:
+      213: 7984257521420379849
+    second: Raccoon Sprite Sheet_22
+  - first:
+      213: -2971315176697696155
+    second: Raccoon Sprite Sheet_23
+  - first:
+      213: -1107460611086558872
+    second: Raccoon Sprite Sheet_24
+  - first:
+      213: 1910493384461284159
+    second: Raccoon Sprite Sheet_25
+  - first:
+      213: -4448428279798726861
+    second: Raccoon Sprite Sheet_26
+  - first:
+      213: 1473751649732164456
+    second: Raccoon Sprite Sheet_27
+  - first:
+      213: 5486056849868082533
+    second: Raccoon Sprite Sheet_28
+  - first:
+      213: 1339754670169362607
+    second: Raccoon Sprite Sheet_29
+  - first:
+      213: 4190162363923899216
+    second: Raccoon Sprite Sheet_30
+  - first:
+      213: 2062838145712258576
+    second: Raccoon Sprite Sheet_31
+  - first:
+      213: 349970599637438883
+    second: Raccoon Sprite Sheet_32
+  - first:
+      213: 4009774285889613691
+    second: Raccoon Sprite Sheet_33
+  - first:
+      213: 2089609273758944754
+    second: Raccoon Sprite Sheet_34
+  - first:
+      213: 5804404160640371477
+    second: Raccoon Sprite Sheet_35
+  - first:
+      213: -2047960217536400224
+    second: Raccoon Sprite Sheet_36
+  - first:
+      213: 497625528119284270
+    second: Raccoon Sprite Sheet_37
+  - first:
+      213: -4313950698263316358
+    second: Raccoon Sprite Sheet_38
+  - first:
+      213: -5179234353322362399
+    second: Raccoon Sprite Sheet_39
+  - first:
+      213: -4876338774114252944
+    second: Raccoon Sprite Sheet_40
+  - first:
+      213: 4970352031903965425
+    second: Raccoon Sprite Sheet_41
+  - first:
+      213: -8700369677916821085
+    second: Raccoon Sprite Sheet_42
+  - first:
+      213: -5747069051090058289
+    second: Raccoon Sprite Sheet_43
+  - first:
+      213: -2782975840768400402
+    second: Raccoon Sprite Sheet_44
+  - first:
+      213: 7442567629819570593
+    second: Raccoon Sprite Sheet_45
+  - first:
+      213: -836593450695487144
+    second: Raccoon Sprite Sheet_46
+  - first:
+      213: -6061400264890796619
+    second: Raccoon Sprite Sheet_47
+  - first:
+      213: -5417894982118589507
+    second: Raccoon Sprite Sheet_48
+  - first:
+      213: -5641977106926652398
+    second: Raccoon Sprite Sheet_49
+  - first:
+      213: 5530300008806627428
+    second: Raccoon Sprite Sheet_50
+  - first:
+      213: 2972962602068224425
+    second: Raccoon Sprite Sheet_51
+  - first:
+      213: 624042341140497104
+    second: Raccoon Sprite Sheet_52
+  - first:
+      213: -1040298870704816541
+    second: Raccoon Sprite Sheet_53
+  - first:
+      213: 4558650162678515423
+    second: Raccoon Sprite Sheet_54
+  - first:
+      213: -1344034954754327986
+    second: Raccoon Sprite Sheet_55
+  - first:
+      213: -6539281662444555221
+    second: Raccoon Sprite Sheet_56
+  - first:
+      213: 7575760867952924520
+    second: Raccoon Sprite Sheet_57
+  - first:
+      213: 791426963273188378
+    second: Raccoon Sprite Sheet_58
+  - first:
+      213: 682696612356369230
+    second: Raccoon Sprite Sheet_59
+  - first:
+      213: -8368723845853827226
+    second: Raccoon Sprite Sheet_60
+  - first:
+      213: -4461200288517784747
+    second: Raccoon Sprite Sheet_61
+  - first:
+      213: 283045243583684307
+    second: Raccoon Sprite Sheet_62
+  - first:
+      213: 6192797654996558673
+    second: Raccoon Sprite Sheet_63
+  - first:
+      213: -7528273797413716764
+    second: Raccoon Sprite Sheet_64
+  - first:
+      213: -5373164958276328230
+    second: Raccoon Sprite Sheet_65
+  - first:
+      213: -8891123510082024284
+    second: Raccoon Sprite Sheet_66
+  - first:
+      213: -1502299439720722089
+    second: Raccoon Sprite Sheet_67
+  - first:
+      213: -1369626929808952064
+    second: Raccoon Sprite Sheet_68
+  - first:
+      213: -3262576544428302507
+    second: Raccoon Sprite Sheet_69
+  - first:
+      213: 2030842377763895028
+    second: Raccoon Sprite Sheet_70
+  - first:
+      213: 1551472655563640378
+    second: Raccoon Sprite Sheet_71
+  - first:
+      213: 7512371440950504819
+    second: Raccoon Sprite Sheet_72
+  - first:
+      213: 6616929270561291130
+    second: Raccoon Sprite Sheet_73
+  - first:
+      213: 5619062718783382346
+    second: Raccoon Sprite Sheet_74
+  - first:
+      213: 3267976434030025594
+    second: Raccoon Sprite Sheet_75
+  - first:
+      213: -3235394179735486685
+    second: Raccoon Sprite Sheet_76
+  - first:
+      213: 4199965243651891151
+    second: Raccoon Sprite Sheet_77
+  - first:
+      213: -8376426167890226570
+    second: Raccoon Sprite Sheet_78
+  - first:
+      213: -8315686722904758466
+    second: Raccoon Sprite Sheet_79
+  - first:
+      213: -577488453708653046
+    second: Raccoon Sprite Sheet_80
+  - first:
+      213: -7777294281438227559
+    second: Raccoon Sprite Sheet_81
+  - first:
+      213: -787480496977556336
+    second: Raccoon Sprite Sheet_82
+  - first:
+      213: -3053227047516048008
+    second: Raccoon Sprite Sheet_83
+  - first:
+      213: -3294659751960776143
+    second: Raccoon Sprite Sheet_84
+  - first:
+      213: 4370486146779168232
+    second: Raccoon Sprite Sheet_85
+  - first:
+      213: -1682998839386280540
+    second: Raccoon Sprite Sheet_86
+  - first:
+      213: 5875129376130409749
+    second: Raccoon Sprite Sheet_87
+  - first:
+      213: -3603636113390125702
+    second: Raccoon Sprite Sheet_88
+  - first:
+      213: 7114820296312375683
+    second: Raccoon Sprite Sheet_89
+  - first:
+      213: 4273192516460875460
+    second: Raccoon Sprite Sheet_90
+  - first:
+      213: -3023473030178942534
+    second: Raccoon Sprite Sheet_91
+  - first:
+      213: -4035327088434612854
+    second: Raccoon Sprite Sheet_92
+  - first:
+      213: 8672678219394715388
+    second: Raccoon Sprite Sheet_93
+  - first:
+      213: 694253794023871872
+    second: Raccoon Sprite Sheet_94
+  - first:
+      213: 2314828610281687750
+    second: Raccoon Sprite Sheet_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7b6c5ff2f67360800000000000000
+      internalID: 7167183035587853076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 337
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8cc0c729067b70800000000000000
+      internalID: 8896308180259998541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4afc73bdc8537ff0800000000000000
+      internalID: -39590331213350322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8259c60e69c3ab5a0800000000000000
+      internalID: -6504820093075286744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 337
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35ea4090ec703b0800000000000000
+      internalID: -5546237877954915397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fb8d4f75be014e0800000000000000
+      internalID: -2012850270432084222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb0e604b4942120800000000000000
+      internalID: 2388197203343621724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 337
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54637494cb617f1e0800000000000000
+      internalID: -2164236097989167547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b559d3477c363f0800000000000000
+      internalID: -908663397735376128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1857cb7502bb8aa0800000000000000
+      internalID: -6157632328877778918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 337
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c461e6b37844fa020800000000000000
+      internalID: 2355176477746402892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 336
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee43b5f2fdb3b90800000000000000
+      internalID: -7260964579718140336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a4f965b39c4d310800000000000000
+      internalID: 1428988238476823146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 288
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd6ce21cd0b90e0800000000000000
+      internalID: -2262199264458907734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade7fbf4312888c0800000000000000
+      internalID: -3996908157841969745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d3e7f6fab17e90800000000000000
+      internalID: -7029631973465008709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 288
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5904e0eee90c9c8f0800000000000000
+      internalID: -519672493153304427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec1995ff528d3190800000000000000
+      internalID: -7981079615976694555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa9dc2387bed97a0800000000000000
+      internalID: -6368675396551075154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 288
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d318b66f8f0105e0800000000000000
+      internalID: -1945256455469263918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112452c64f91a5b50800000000000000
+      internalID: 6582602342932496913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f9f14978496ce0800000000000000
+      internalID: -1411517322568796075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 288
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6a08fc9e7cdce60800000000000000
+      internalID: 7984257521420379849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 288
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560f439e694c3c6d0800000000000000
+      internalID: -2971315176697696155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d279117281a0f0800000000000000
+      internalID: -1107460611086558872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 240
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337c866c9f638a10800000000000000
+      internalID: 1910493384461284159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f7bcd5c020442c0800000000000000
+      internalID: -4448428279798726861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7e613151d37410800000000000000
+      internalID: 1473751649732164456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 240
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d4cf973a3622c40800000000000000
+      internalID: 5486056849868082533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09d9136c3c79210800000000000000
+      internalID: 1339754670169362607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05325e43872762a30800000000000000
+      internalID: 4190162363923899216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 240
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efd483d5ca0ac10800000000000000
+      internalID: 2062838145712258576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15839f7685bd400800000000000000
+      internalID: 349970599637438883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f22f3e77495a730800000000000000
+      internalID: 4009774285889613691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 240
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd83c13098cffc10800000000000000
+      internalID: 2089609273758944754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 240
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc4cfb4d26d8050800000000000000
+      internalID: 5804404160640371477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a47c9f580f2493e0800000000000000
+      internalID: -2047960217536400224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2257b208cbe7e600800000000000000
+      internalID: 497625528119284270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78777b32b4c124c0800000000000000
+      internalID: -4313950698263316358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e978b1ebc9af18b0800000000000000
+      internalID: -5179234353322362399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077c47c88b3c35cb0800000000000000
+      internalID: -4876338774114252944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e646c6dc3af440800000000000000
+      internalID: 4970352031903965425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9203ddfd3124780800000000000000
+      internalID: -8700369677916821085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 192
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c226b52f4e30b0800000000000000
+      internalID: -5747069051090058289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee36188b732e069d0800000000000000
+      internalID: -2782975840768400402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a96730b3df494760800000000000000
+      internalID: 7442567629819570593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 192
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85190e560b2d364f0800000000000000
+      internalID: -836593450695487144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 192
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5b9b1e29491eba0800000000000000
+      internalID: -6061400264890796619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb33701835cfc4b0800000000000000
+      internalID: -5417894982118589507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21430c6b6bba3b1b0800000000000000
+      internalID: -5641977106926652398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4683246ae829fbc40800000000000000
+      internalID: 5530300008806627428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a92cc23cb5124920800000000000000
+      internalID: 2972962602068224425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d28b74f33b09a800800000000000000
+      internalID: 624042341140497104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e366750bd1091f0800000000000000
+      internalID: -1040298870704816541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6cab19b24934f30800000000000000
+      internalID: 4558650162678515423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 145
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af8246457095de0800000000000000
+      internalID: -1344034954754327986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2434cf79fdcf35a0800000000000000
+      internalID: -6539281662444555221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86793ad0f52822960800000000000000
+      internalID: 7575760867952924520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 145
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14809341a6bbfa00800000000000000
+      internalID: 791426963273188378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 144
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b2ddca3fc697900800000000000000
+      internalID: 682696612356369230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66faa8860025cdb80800000000000000
+      internalID: -8368723845853827226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bf60b59f1a612c0800000000000000
+      internalID: -4461200288517784747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5b2f36249de300800000000000000
+      internalID: 283045243583684307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15321f708ac31f550800000000000000
+      internalID: 6192797654996558673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec36452ed2368790800000000000000
+      internalID: -7528273797413716764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ec5e40feae65b0800000000000000
+      internalID: -5373164958276328230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4accf6756426c9480800000000000000
+      internalID: -8891123510082024284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 96
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7519d2d7e92c62be0800000000000000
+      internalID: -1502299439720722089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005bded509b1efce0800000000000000
+      internalID: -1369626929808952064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f54d03beff8b2d0800000000000000
+      internalID: -3262576544428302507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 96
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63d69f1600f2c10800000000000000
+      internalID: 2030842377763895028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 96
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4a910920f78510800000000000000
+      internalID: 1551472655563640378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de4a6f50e414860800000000000000
+      internalID: 7512371440950504819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb0b31d1e04db50800000000000000
+      internalID: 6616929270561291130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4369bb85cbeafd40800000000000000
+      internalID: 5619062718783382346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b15b4904f2a5d20800000000000000
+      internalID: 3267976434030025594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fff78a2229913d0800000000000000
+      internalID: -3235394179735486685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf9bd00326494a30800000000000000
+      internalID: 4199965243651891151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672dd9fc7c4f0cb80800000000000000
+      internalID: -8376426167890226570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 48
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3764d1ebfeb89c80800000000000000
+      internalID: -8315686722904758466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5ece9f495cf7f0800000000000000
+      internalID: -577488453708653046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99392319e00811490800000000000000
+      internalID: -7777294281438227559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 48
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cca1609ae4215f0800000000000000
+      internalID: -787480496977556336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 48
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f03e4d22c0a5d0800000000000000
+      internalID: -3053227047516048008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f99459640742d0800000000000000
+      internalID: -3294659751960776143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb982aef517ac30800000000000000
+      internalID: 4370486146779168232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad6cf4f879c4a8e0800000000000000
+      internalID: -1682998839386280540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51527b13a07a88150800000000000000
+      internalID: 5875129376130409749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dbc993c005dfdc0800000000000000
+      internalID: -3603636113390125702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38940721d5becb260800000000000000
+      internalID: 7114820296312375683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce028014fd6d4b30800000000000000
+      internalID: 4273192516460875460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d5305c477a06d0800000000000000
+      internalID: -3023473030178942534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f755a463aff7c0800000000000000
+      internalID: -4035327088434612854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe0a4604ea8b5870800000000000000
+      internalID: 8672678219394715388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08592c8b52c72a900800000000000000
+      internalID: 694253794023871872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon Sprite Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca40c74b5cef1020800000000000000
+      internalID: 2314828610281687750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
