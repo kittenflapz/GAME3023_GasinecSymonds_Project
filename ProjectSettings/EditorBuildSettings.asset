@@ -8,13 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/ExerciseOneVideoVersion.unity
     guid: 5517b05f82d97d3499180e0074eac037
   - enabled: 0
-    path: Assets/Scenes/Exercise3.unity
-    guid: 4b83d221e46b14542943fc9328ed6acf
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/_Scenes/Exercise2VideoVersion.unity
     guid: 981b696fa36e86f4aa09b455fa96f79b
+  - enabled: 1
+    path: Assets/_Scenes/Final Project Scenes/TitleScene.unity
+    guid: f0cbbcb487a7c184b83ef2d292a3cda3
+  - enabled: 1
+    path: Assets/_Scenes/Final Project Scenes/Overworld.unity
+    guid: c8a1be7b13ba6bd46913ab1e34c550f4
   m_configObjects: {}
