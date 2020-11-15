@@ -12,7 +12,14 @@ public class PlayerPositionSaver : MonoBehaviour
 
     private void Start()
     {
-        SetLoadedPosition();   
+        try
+        {
+            SetLoadedPosition();
+        }
+        catch
+        {
+            SavePosition();
+        }
     }
 
     public void SetLoadedPosition()
