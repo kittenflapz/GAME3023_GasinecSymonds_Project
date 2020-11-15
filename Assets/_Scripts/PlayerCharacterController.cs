@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class PlayerCharacterController : MonoBehaviour
 {
     [SerializeField]
@@ -29,21 +29,30 @@ public class PlayerCharacterController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Movement
-
-        Vector2 movementVector = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        movementVector *= speed;
-        rigidBody.velocity = movementVector;
-
-        // Animation
-
-        animator.SetFloat("moveX", rigidBody.velocity.x);
-        animator.SetFloat("moveY", rigidBody.velocity.y);
-
-        if(Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1  || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
+        // Disable movement if in battle scene
+        if (SceneManager.GetActiveScene().name != "BattleScene")
         {
-            animator.SetFloat("lastMoveX", Input.GetAxisRaw("Horizontal"));
-            animator.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical"));
+            // Movement
+            Vector2 movementVector = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+            movementVector *= speed;
+            rigidBody.velocity = movementVector;
+
+            // Animation
+
+            animator.SetFloat("moveX", rigidBody.velocity.x);
+            animator.SetFloat("moveY", rigidBody.velocity.y);
+
+            if (Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
+            {
+                animator.SetFloat("lastMoveX", Input.GetAxisRaw("Horizontal"));
+                animator.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical"));
+            }
+        }
+        else
+        {
+            // Set position for battle scene
+           // animator.SetFloat("moveX", 1.0f);
+            animator.SetFloat("lastMoveX", 1.0f);
         }
 
         // If (random 4-7 seconds) pass while idle, set the fidget chance to 1 and then set it back after a second

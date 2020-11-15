@@ -23,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/Final Project Scenes/Overworld.unity
     guid: c8a1be7b13ba6bd46913ab1e34c550f4
+  - enabled: 1
+    path: Assets/_Scenes/Final Project Scenes/BattleScene.unity
+    guid: fe4040a0b1d472a408bd3dc3161769fd
+  - enabled: 1
+    path: Assets/_Scenes/Final Project Scenes/StartLevel.unity
+    guid: cf32d9a3f7275804f8aedcd469da12b8
   m_configObjects: {}
