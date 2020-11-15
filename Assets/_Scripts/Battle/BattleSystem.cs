@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 
 enum BattlePhase
@@ -20,6 +21,9 @@ public class BattleSystem : MonoBehaviour
     [SerializeField]
     ICharacter[] combatants;
 
+    public UnityEvent<ICharacter> onCharacterTurnBegin;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,11 +39,13 @@ public class BattleSystem : MonoBehaviour
     public void AdvanceTurns()
     {
         phase++;
-        if(phase > BattlePhase.COUNT)
+        if(phase >= BattlePhase.COUNT)
         {
             phase = 0;
         }
-        Debug.Log("It is " + combatants[(int)phase].name + "'s turn");
-        combatants[(int)phase].TakeTurn();
+        ICharacter activeCharacter = combatants[(int)phase];
+        Debug.Log("It is " + activeCharacter.name + "'s turn");
+        activeCharacter.TakeTurn();
+        onCharacterTurnBegin.Invoke(activeCharacter);
     }
 }
