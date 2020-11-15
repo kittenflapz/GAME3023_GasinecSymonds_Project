@@ -46,7 +46,7 @@ public class PlayerCharacterController : MonoBehaviour
             animator.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical"));
         }
 
-        // If (random 3-5 seconds) pass while idle, set the fidget chance to 1 and then set it back after a second
+        // If (random 4-7 seconds) pass while idle, set the fidget chance to 1 and then set it back after a second
         if(Input.anyKeyDown) // input received, reset the fidget timer
         {
             fidgetTimer = 0;
