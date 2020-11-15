@@ -199,6 +199,14 @@ PrefabInstance:
       propertyPath: m_Mass
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8887329843273205865, guid: 9f5e7a5096ec84f44911c39a6ed488b1, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8887329843273205866, guid: 9f5e7a5096ec84f44911c39a6ed488b1, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8887329843273205867, guid: 9f5e7a5096ec84f44911c39a6ed488b1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.22
@@ -317,7 +325,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -4518,7 +4526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e80b4ec4c0ff764192d89b8ef642f2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rerollTime: 200
+  rerollTime: 100
   playerRB: {fileID: 241731420}
   sceneSwitcher: {fileID: 0}
   playerInEncounterZone: 0
@@ -4696,7 +4704,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -8493,6 +8501,7 @@ GameObject:
   - component: {fileID: 1818535453}
   - component: {fileID: 1818535452}
   - component: {fileID: 1818535451}
+  - component: {fileID: 1818535454}
   m_Layer: 0
   m_Name: EncounterArea
   m_TagString: Untagged
@@ -10318,6 +10327,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &1818535454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1818535449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33bb0bd530d45064688d72a7302dd655, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1989721042
 GameObject:
   m_ObjectHideFlags: 0
