@@ -2,17 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ability : MonoBehaviour
+[CreateAssetMenu(fileName = "Basic Ability", menuName = "Ability/Basic Ability")]
+public class Ability : ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField]
+    List<Effect> effects;
+    
+    public void ApplyEffects(ICharacter caster, ICharacter target)
     {
-        
-    }
+        foreach(Effect effect in effects)
+        {
+            effect.Apply(caster, target);
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Debug.Log(typeof(Ability).Name + " was used!");
     }
 }

@@ -28,6 +28,12 @@ public class BattleSystem : MonoBehaviour
     void Start()
     {
         AdvanceTurns();
+
+        // subscribe to onabilityused events
+        foreach(ICharacter character in combatants)
+        {
+            character.onAbilityUsed.AddListener(CharacterUsedAbilityHandler);
+        }
     }
 
     // Update is called once per frame
@@ -47,5 +53,31 @@ public class BattleSystem : MonoBehaviour
         Debug.Log("It is " + activeCharacter.name + "'s turn");
         activeCharacter.TakeTurn();
         onCharacterTurnBegin.Invoke(activeCharacter);
+    }
+
+
+    private void OnDestroy()
+    {
+        foreach (ICharacter character in combatants)
+        {
+            character.onAbilityUsed.RemoveListener(CharacterUsedAbilityHandler);
+        }
+    }
+
+    // respnd to onabilityused
+
+    public void CharacterUsedAbilityHandler(ICharacter caster, Ability ability)
+    {
+        //target is whoever's turn it isn't
+        ICharacter target = combatants[((int)phase + 1) % (int)BattlePhase.COUNT];
+
+        ability.ApplyEffects(caster, target);
+        StartCoroutine(SwapTurnDelay(1.0f));
+    }
+
+    IEnumerator SwapTurnDelay(float time)
+    {
+        yield return new WaitForSeconds(time);
+        AdvanceTurns();
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class ICharacter : MonoBehaviour
 {
@@ -10,7 +11,10 @@ public class ICharacter : MonoBehaviour
     private int hpMax = 10;
 
     [SerializeField]
-    Ability[] abilities = new Ability[4];
+    protected Ability[] abilities = new Ability[4];
+
+    public UnityEvent<ICharacter, int> onDamageTaken;
+    public UnityEvent<ICharacter, Ability> onAbilityUsed;
 
     // Start is called before the first frame update
     void Start()
@@ -26,11 +30,25 @@ public class ICharacter : MonoBehaviour
 
     public void UseAbility(int id)
     {
-       // abilities[id].whatever
+        onAbilityUsed.Invoke(this, abilities[id]);
     }
 
-    public void TakeTurn()
+    public virtual void TakeTurn()
     {
 
+    }
+
+    private void OnDestroy()
+    {
+        onDamageTaken.RemoveAllListeners();
+        onAbilityUsed.RemoveAllListeners();
+    }
+
+    public void TakeDamage(int baseDamage)
+    {
+        int damageTaken = baseDamage;
+
+        hp -= damageTaken;
+        onDamageTaken.Invoke(this, damageTaken);
     }
 }
