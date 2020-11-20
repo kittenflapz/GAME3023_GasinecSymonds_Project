@@ -52,7 +52,7 @@ public class EncounterGenerator : MonoBehaviour
             {
                 // Pick a number between 0 and 100
                 int value = Random.Range(0, 100);
-                Debug.Log(value);
+
 
                 // Check if the number is below the current threshold
                 if (value < currentEncounterThreshold)

@@ -50,7 +50,6 @@ public class BattleSystem : MonoBehaviour
             phase = 0;
         }
         ICharacter activeCharacter = combatants[(int)phase];
-        Debug.Log("It is " + activeCharacter.name + "'s turn");
         activeCharacter.TakeTurn();
         onCharacterTurnBegin.Invoke(activeCharacter);
     }
@@ -70,7 +69,7 @@ public class BattleSystem : MonoBehaviour
     {
         //target is whoever's turn it isn't
         ICharacter target = combatants[((int)phase + 1) % (int)BattlePhase.COUNT];
-
+      
         ability.ApplyEffects(caster, target);
         StartCoroutine(SwapTurnDelay(1.0f));
     }

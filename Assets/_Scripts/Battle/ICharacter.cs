@@ -6,6 +6,7 @@ using UnityEngine.Events;
 public class ICharacter : MonoBehaviour
 {
     public int hp;
+    public int armor;
 
     [SerializeField]
     private int hpMax = 10;

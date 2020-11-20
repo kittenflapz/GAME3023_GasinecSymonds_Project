@@ -12,10 +12,10 @@ public class EncounterArea : MonoBehaviour
     }
     public void OnTriggerEnter2D(Collider2D collision)
     {
-       Debug.Log("colliding");
+
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("colliding w player");
+     
             colliding = true;
         }
     }

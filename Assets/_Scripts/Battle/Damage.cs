@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Damage Effect", menuName = "Effects/Damage")]
-public class MyEffect : Effect
+public class Damage : Effect
 {
     [SerializeField]
     int power;
