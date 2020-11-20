@@ -9,7 +9,7 @@ public class ICharacter : MonoBehaviour
     public int armor;
 
     [SerializeField]
-    private int hpMax = 10;
+    private int hpMax = 100;
 
     [SerializeField]
     protected Ability[] abilities = new Ability[4];
@@ -49,7 +49,14 @@ public class ICharacter : MonoBehaviour
     {
         int damageTaken = baseDamage;
 
+        Debug.Log("changing hp of " + this.name + " by " + baseDamage);
+
         hp -= damageTaken;
         onDamageTaken.Invoke(this, damageTaken);
+    }
+
+    public void RaiseDefense(int armorPointsToRaiseBy)
+    {
+        armor += armorPointsToRaiseBy;
     }
 }

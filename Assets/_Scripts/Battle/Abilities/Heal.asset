@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9deda08c9f879a441a70a2b6f0e81019, type: 3}
-  m_Name: Basic Ability
+  m_Script: {fileID: 11500000, guid: bc7b39af4fdbce946ae9ee1f1d246aee, type: 3}
+  m_Name: Heal
   m_EditorClassIdentifier: 
   effects:
-  - {fileID: 11400000, guid: c71aa3efdd3c2a442bc4357dd8ef6c70, type: 2}
+  - {fileID: 11400000, guid: f64ff155de94b474abd4ae5fe9dca518, type: 2}

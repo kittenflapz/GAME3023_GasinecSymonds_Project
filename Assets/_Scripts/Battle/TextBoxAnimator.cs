@@ -12,7 +12,14 @@ public class TextBoxAnimator : MonoBehaviour
     float textSpeedCharactersPerSecond = 10;
     public void AnimateTextCharacterTurn(ICharacter activeCharacter)
     {
-        AnimateText(activeCharacter.name);
+        if (activeCharacter.name == "Player")
+        {
+            AnimateText("It's your turn! What do?");
+        }
+        else
+        {
+            AnimateText("Your enemy is taking their turn...");
+        }
     }
 
     public void AnimateText(string message)

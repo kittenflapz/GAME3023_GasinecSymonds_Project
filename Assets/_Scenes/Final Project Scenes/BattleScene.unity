@@ -376,7 +376,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Defend
+  m_text: Heal
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1717,7 +1717,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8599145879176922823, guid: 5e7fabe10ce46024bbd5b08b53fe1c7e, type: 3}
       propertyPath: m_Name
-      value: BattleScenePlayer
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8599145879176922824, guid: 5e7fabe10ce46024bbd5b08b53fe1c7e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1790,12 +1790,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 103f844b35f30f9428bcb3353fb40783, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 0
+  hp: 10
   armor: 0
   hpMax: 10
   abilities:
   - {fileID: 11400000, guid: 923c6675cedd4124abb87e6de05307ec, type: 2}
-  - {fileID: 11400000, guid: 923c6675cedd4124abb87e6de05307ec, type: 2}
+  - {fileID: 11400000, guid: e9df47bff85b41e49a24bea567a107c3, type: 2}
   - {fileID: 11400000, guid: 923c6675cedd4124abb87e6de05307ec, type: 2}
   - {fileID: 11400000, guid: 923c6675cedd4124abb87e6de05307ec, type: 2}
   onDamageTaken:
@@ -1860,7 +1860,7 @@ GameObject:
   - component: {fileID: 1439887834}
   - component: {fileID: 1439887833}
   m_Layer: 5
-  m_Name: Defend
+  m_Name: Heal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2531,7 +2531,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0

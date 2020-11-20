@@ -9,10 +9,18 @@ public class Damage : Effect
     int power;
 
     [SerializeField]
-    TargetType target;
+    TargetType targType;
 
     public override void Apply(ICharacter caster, ICharacter target)
     {
-        target.TakeDamage(power);
+
+        if ((int)targType == 0)
+        { 
+            target.TakeDamage(power); 
+        }
+        else if ((int)targType == 1)
+        { 
+            caster.TakeDamage(power); 
+        }
     }
 }

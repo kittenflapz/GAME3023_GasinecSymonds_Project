@@ -4,18 +4,6 @@ using UnityEngine;
 
 public class BattleAICharacter : ICharacter
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public override void TakeTurn()
     {
         // use random ability
