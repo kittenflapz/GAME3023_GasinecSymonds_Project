@@ -7,6 +7,8 @@ public class Ability : ScriptableObject
 {
     [SerializeField]
     List<Effect> effects;
+
+   public bool usedThisBattle;
     
     public void ApplyEffects(ICharacter caster, ICharacter target)
     {

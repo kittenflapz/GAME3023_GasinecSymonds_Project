@@ -14,12 +14,12 @@ public class Damage : Effect
     public override void Apply(ICharacter caster, ICharacter target)
     {
 
-        if ((int)targType == 0)
-        { 
+        if ((int)targType == 1)
+        {
             target.TakeDamage(power); 
         }
-        else if ((int)targType == 1)
-        { 
+        else if ((int)targType == 0)
+        {
             caster.TakeDamage(power); 
         }
     }

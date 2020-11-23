@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Heal
   m_EditorClassIdentifier: 
   power: -10
-  target: 0
+  targType: 0

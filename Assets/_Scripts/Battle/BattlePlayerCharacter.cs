@@ -4,15 +4,21 @@ using UnityEngine;
 
 public class BattlePlayerCharacter : ICharacter
 {
-    // Start is called before the first frame update
-    void Start()
+    public override void TakeTurn()
     {
-        
-    }
+        if (hasWon)
+        {
+            battleOverText.SetText("You won!");
+            winnerUI.SetActive(true);
+        }
+        if (hp <= 0)
+        {
+            battleOverText.SetText("You lost!");
+            hasLost = true;
+            winnerUI.SetActive(true);
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        base.TakeTurn();
+
     }
 }

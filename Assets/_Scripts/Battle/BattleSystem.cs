@@ -44,14 +44,28 @@ public class BattleSystem : MonoBehaviour
 
     public void AdvanceTurns()
     {
+      
         phase++;
         if(phase >= BattlePhase.COUNT)
         {
             phase = 0;
         }
         ICharacter activeCharacter = combatants[(int)phase];
-        activeCharacter.TakeTurn();
-        onCharacterTurnBegin.Invoke(activeCharacter);
+        if (activeCharacter.hasLost)
+        {
+            phase++;
+            if (phase >= BattlePhase.COUNT)
+            {
+                phase = 0;
+            }
+            activeCharacter = combatants[(int)phase];
+            activeCharacter.hasWon = true;
+        }
+        {
+            activeCharacter.TakeTurn();
+            activeCharacter.UpdateHealthBar();
+            onCharacterTurnBegin.Invoke(activeCharacter);
+        }
     }
 
 

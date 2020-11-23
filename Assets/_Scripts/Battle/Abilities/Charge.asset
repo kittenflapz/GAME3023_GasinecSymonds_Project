@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c1823e120cada7418abb57bc5d4049d, type: 3}
-  m_Name: Scratch Damage
+  m_Script: {fileID: 11500000, guid: af2123392b0e0ea40b00ff94aee1f943, type: 3}
+  m_Name: Charge
   m_EditorClassIdentifier: 
-  power: 10
-  targType: 1
+  effects:
+  - {fileID: 11400000, guid: e590226f70db7b44c8eac3432e20784c, type: 2}
+  usedThisBattle: 0

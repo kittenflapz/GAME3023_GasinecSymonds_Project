@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c1823e120cada7418abb57bc5d4049d, type: 3}
-  m_Name: Scratch Damage
+  m_Script: {fileID: 11500000, guid: f9c39883f2e375d4bb4d37cc0a879a3a, type: 3}
+  m_Name: Dodge
   m_EditorClassIdentifier: 
-  power: 10
-  targType: 1
+  effects:
+  - {fileID: 11400000, guid: 92a2e6272e4c87941a7bfc2277bab957, type: 2}
