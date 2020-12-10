@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class EncounterArea : MonoBehaviour
 {
     bool colliding;
+
+
 
     private void Update()
     {
@@ -15,7 +18,6 @@ public class EncounterArea : MonoBehaviour
 
         if (collision.CompareTag("Player"))
         {
-     
             colliding = true;
         }
     }

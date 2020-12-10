@@ -16,6 +16,6 @@ public class Ability : ScriptableObject
         {
             effect.Apply(caster, target);
         }
-        Debug.Log(this.GetType() + " was used!");
+ 
     }
 }

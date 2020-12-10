@@ -5,11 +5,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class EncounterGenerator : MonoBehaviour
 {
     // This is the starting probability of an encounter
-    const int DEFAULT_ENCOUNTER_THRESHOLD = 10;
+    const int DEFAULT_ENCOUNTER_THRESHOLD = 90;
 
     // Set the current probability to the default value
     private int currentEncounterThreshold = DEFAULT_ENCOUNTER_THRESHOLD;
@@ -18,6 +19,7 @@ public class EncounterGenerator : MonoBehaviour
     [SerializeField]
     private float rerollTime;
 
+    [SerializeField]
     private float rerollTimer;
 
     private bool playerIsMoving;
@@ -31,6 +33,7 @@ public class EncounterGenerator : MonoBehaviour
     [SerializeField]
     public bool playerInEncounterZone;
 
+    public UnityEvent onEnterEncounter;
 
 
     public void Start()
@@ -44,9 +47,11 @@ public class EncounterGenerator : MonoBehaviour
         // Check whether player is moving
         playerIsMoving = playerRB.velocity.magnitude > 0 ? true : false;
 
+        Debug.Log(rerollTimer > rerollTime);
 
         if (playerInEncounterZone && rerollTimer > rerollTime)
         {
+     
             if (playerIsMoving) // You'll need some way of knowing whether the player moved on this frame.
                                 // Alternatively, you can bundle this into your movement script and separate it out again later on
             {
@@ -58,8 +63,7 @@ public class EncounterGenerator : MonoBehaviour
                 if (value < currentEncounterThreshold)
                 {
                     // If it is, then start an encounter, and set the threshold back to the default value for next time.
-                    sceneSwitcher.LoadBattleScene();
-                    currentEncounterThreshold = DEFAULT_ENCOUNTER_THRESHOLD;
+                    StartCoroutine(DelayBattle());
                 }
                 else
                 {
@@ -75,6 +79,14 @@ public class EncounterGenerator : MonoBehaviour
         {
             rerollTimer += 0.1f;
         }
+    }
+
+    IEnumerator DelayBattle()
+    {
+        onEnterEncounter.Invoke();
+        yield return new WaitForSeconds(3.0f);
+        sceneSwitcher.LoadBattleScene();
+        currentEncounterThreshold = DEFAULT_ENCOUNTER_THRESHOLD;
     }
 }
 

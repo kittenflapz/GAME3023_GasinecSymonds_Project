@@ -6,7 +6,8 @@ public class BattleAICharacter : ICharacter
 {
     int randAbility;
     public BattlePlayerCharacter player;
-
+    public List<ParticleSystem> abilityEffects;
+    public List<AudioSource> abilitySounds;
 
     private void Start()
     {
@@ -37,16 +38,22 @@ public class BattleAICharacter : ICharacter
         if (hp > hpMax / 2)
         {
             UseAbility(randAbility);
+            abilityEffects[randAbility].Play();
+            abilitySounds[randAbility].Play();
         }
         else        // if hp < 50%, use charge unless charge has been used, in which case use Scratch
         {
             if (abilities[2].usedThisBattle == false)
             {
                 UseAbility(2);
+                abilityEffects[2].Play();
+                abilitySounds[2].Play();
             }
             else
             {
                 UseAbility(0);
+                abilityEffects[0].Play();
+                abilitySounds[0].Play();
             }
         }
     }

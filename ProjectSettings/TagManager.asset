@@ -6,6 +6,8 @@ TagManager:
   tags:
   - SampleScene
   - ExerciseOneVideoVersion
+  - Music
+  - MusicManager
   layers:
   - Default
   - TransparentFX

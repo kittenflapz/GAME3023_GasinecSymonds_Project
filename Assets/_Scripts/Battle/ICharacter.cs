@@ -24,11 +24,11 @@ public class ICharacter : MonoBehaviour
     public TextMeshProUGUI battleOverText;
     public UnityEvent<ICharacter, int> onDamageTaken;
     public UnityEvent<ICharacter, Ability> onAbilityUsed;
+    public Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
-        
     }
 
     // Update is called once per frame
@@ -40,6 +40,7 @@ public class ICharacter : MonoBehaviour
     public void UseAbility(int id)
     {
         onAbilityUsed.Invoke(this, abilities[id]);
+        animator.SetTrigger("AbilityUsed");
     }
 
     public virtual void TakeTurn()
@@ -83,4 +84,6 @@ public class ICharacter : MonoBehaviour
         //Debug.Log("my health is " + hp + " and my max health is " + hpMax + " so my current health bar is " + hp / hpMax);
         healthBar.fillAmount = hp / hpMax;
     }
+
+
 }
